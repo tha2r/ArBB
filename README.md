@@ -3,6 +3,10 @@ PHP and MYSQL forum software.
 
 Arabian Bulletin Board , An old Project i started back when i was learning php in 2005 to 2007.
 
+i Tried to revive it in 2009 and completed some of the unfinished places, but it still never made it to a real product.
+
+i just didn't have time to finish it on my own.
+
 this php forum software i started back when i was like 15 years old so it must be full of bugs and some copied codes, 
 it's good as a study case as it's not a complete project and i am not thinking of reviving it soon.
 
